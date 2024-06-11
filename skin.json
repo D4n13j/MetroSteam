@@ -1,11 +1,11 @@
 {
-  "name": "Metro by Rose",
-  "author": "Rose",
+  "name": "Metro by D4n13j",
+  "author": "D4n13j",
   "description": "A skin heavily inspired by the original Metro for Steam.",
-  "source": "https://github.com/RoseTheFlower/MetroSteam",
+  "source": "https://github.com/D4n13j/MetroSteam",
   "github":
   {
-    "owner": "RoseTheFlower",
+    "owner": "D4n13j",
     "repo_name": "MetroSteam"
   },
   "tags":
@@ -15,7 +15,7 @@
     "Windows 10",
     "Windows 8"
   ],
-  "header_image": "https://raw.githubusercontent.com/RoseTheFlower/MetroSteam/master/preview.png",
+  "header_image": "https://github.com/D4n13j/MetroSteam/master/preview.png",
   "splash_image": "https://i.imgur.com/PQF7r4t.png",
   "UseDefaultPatches": true,
   "Patches":

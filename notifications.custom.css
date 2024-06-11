@@ -6,14 +6,14 @@
     --semilight: "Segoe UI Semilight","Helvetica Neue Light","Motiva Sans","Arial Light","Helvetica Light",sans-serif;
     --scrollbarSize: 15px;
     --focus: 102, 36, 226; /* Default Metro skin purple accent */
-    --clientBG: 26, 26, 26;
-    --header_dark: 20, 20, 20;
-    --frameBorder: 15, 15, 15;
-    --online: 93, 178, 255;
-    --ingame: 130, 186, 0;
-    --offline: 145, 145, 145; /* Originally white45 but that makes it too bold */
-    --golden: 255, 255, 99;
-    --textentry: 39, 39, 39;
+	--clientBG: 16,16,16;
+	--header_dark:16,16,16;
+	--online:0,125,184;
+	--ingame:77,230,57;
+	--offline:48,48,48; /* Originally white45 but that makes it too bold, pre D4n13j was 145,145,145 */
+    --golden: 255,255,99;
+    --scrollbarSize: 15px;
+    --textentry: 48,48,48;
     --white03: 255, 255, 255, 0.03;
     --white05: 255, 255, 255, 0.05;
     --white08: 255, 255, 255, 0.08;

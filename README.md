@@ -2,6 +2,7 @@
 
 This skin for the new UI framework was created after Valve made it problematic to revert to the old-style windows and subsequently removed support for user-made themes.
 My quest was to make the windows look as close as possible to those of [the original Metro skin](https://steamcommunity.com/groups/metroforsteam).
+Remade by D4n13j a little bit. (Colors were edited to correspond to D4n13j's DELL-alike Windows 10 theme.)
 
 ## Applying the skin
 ### Using SFP
@@ -39,6 +40,7 @@ Installing manually is also an option:
 
 ## Credits
 * [Dom](https://github.com/minischetti) for creating the original Metro skin, which has been the reference point for many parts of my remake.
+* [Rose] (https://github.com/RoseTheFlower) for remaking original Metro skin, so it's possible to use it with new UI framework.
 * [PhantomGamers](https://github.com/PhantomGamers) for creating the first tool to allow skinning, SFP.
 * [RedSigma](https://github.com/redsigma) for creating a custom skin for the chat and friends windows, which I used as an early template.
 * [Sims](https://github.com/suchmememanyskill) for ideas and code examples related to animating the Steam menu, to the dynamic placement of the repositioned bottom bar buttons, and to the context menu borders.

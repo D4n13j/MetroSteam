@@ -14,7 +14,7 @@ Known issues / things to improve:
 @import url('custom.css');
 
 :root {
-    --focus: 102,36,226;
+    --focus: 0,125,184;
     --basefont: "Segoe UI","Helvetica Neue","Motiva Sans",Arial,Helvetica,sans-serif;
     --semibold: "Segoe UI Semibold","Helvetica Neue Medium","Motiva Sans",Arial,Helvetica,sans-serif;
     /* Both used occasionally, not for everything */
@@ -27,17 +27,17 @@ Known issues / things to improve:
     /* Window close button color on hover */
     --W10close_Red_p: 241,112,121;
     /* Window close button color when pressed */
-    --clientBG: 26,26,26;
-    --header_dark: 20,20,20;
-    --online: 93,178,255;
-    --ingame: 130,186,0;
-    --offline: 145,145,145; /* Originally white45 but that makes it too bold */
+	--clientBG: 16,16,16;
+	--header_dark:16,16,16;
+	--online:0,125,184;
+	--ingame:77,230,57;
+	--offline:48,48,48; /* Originally white45 but that makes it too bold, pre D4n13j was 145,145,145 */
     --golden: 255,255,99;
     --scrollbarSize: 15px;
-    --textentry: 39,39,39;
-    --frameBorder: 15,15,15;
-    --bgGameList: 38,38,38;
-    --white05onbgGameList: 49,49,49;
+    --textentry: 48,48,48;
+    --frameBorder: 16,16,16;
+    --bgGameList: 16,16,16;
+    --white05onbgGameList: 48,48,48;
     /* Just a workaround to deal with two overlapping hover overlays for library highlights */
     --white03: 255,255,255,0.03;
     --white05: 255,255,255,0.05;

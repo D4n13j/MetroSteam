@@ -2,9 +2,9 @@
 
 html:root
 {
---decal: url(https://rosetheflower.github.io/MetroSteam/decals/1.png);
---decalXY: right top;
---focus: 0, 114, 198; /* Blue accent */
+--decal: url(https://rosetheflower.github.io/MetroSteam/decals/decal_steam_btmr.png);
+--decalXY: calc(100% - 174px) calc(100% - 79px);
+--focus: 0,125,184; /* Blue accent */
 }
 
 /* The preferred option lines from below should be put inside the curly brackets above to make them active */
