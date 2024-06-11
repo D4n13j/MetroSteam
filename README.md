@@ -15,7 +15,7 @@ Remade by D4n13j a little bit. (Colors were edited to correspond to D4n13j's DEL
 
 1. [Download the skin archive](/../../archive/refs/heads/master.zip).
 1. Extract the archive to **Steam\steamui\skins** (create the skins folder if doing this for the first time).
-   - If you like, rename the MetroSteam-master folder to `Metro by Rose`.
+   - If you like, rename the MetroSteam-master folder to `Metro by Rose` or `Metro by D4n13j`.
 1. [Download the latest version of SFP](https://github.com/PhantomGamers/SFP/releases) to modify Steam.
 1. Run the tool and select the skin under *Steam skin* in its settings.
 1. In SFP, click on Start Injection unless already done.
